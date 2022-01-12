@@ -16,6 +16,7 @@
 		C3420121278E2DF300A36AB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C342011F278E2DF300A36AB6 /* LaunchScreen.storyboard */; };
 		C342012C278E2DF400A36AB6 /* Local_Notifications_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C342012B278E2DF400A36AB6 /* Local_Notifications_AppTests.swift */; };
 		C3420137278E2DF400A36AB6 /* Local_Notifications_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3420136278E2DF400A36AB6 /* Local_Notifications_AppUITests.swift */; };
+		C3420145278E429A00A36AB6 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3420144278E429A00A36AB6 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C3420132278E2DF400A36AB6 /* Local Notifications AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Local Notifications AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3420136278E2DF400A36AB6 /* Local_Notifications_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Local_Notifications_AppUITests.swift; sourceTree = "<group>"; };
 		C3420138278E2DF400A36AB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3420144278E429A00A36AB6 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				C3420111278E2DF200A36AB6 /* AppDelegate.swift */,
 				C3420113278E2DF200A36AB6 /* SceneDelegate.swift */,
 				C3420115278E2DF200A36AB6 /* ViewController.swift */,
+				C3420144278E429A00A36AB6 /* TableViewController.swift */,
 				C3420117278E2DF200A36AB6 /* Main.storyboard */,
 				C342011D278E2DF300A36AB6 /* Assets.xcassets */,
 				C342011F278E2DF300A36AB6 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				C342011C278E2DF300A36AB6 /* Local_Notifications_App.xcdatamodeld in Sources */,
 				C3420116278E2DF200A36AB6 /* ViewController.swift in Sources */,
 				C3420112278E2DF200A36AB6 /* AppDelegate.swift in Sources */,
+				C3420145278E429A00A36AB6 /* TableViewController.swift in Sources */,
 				C3420114278E2DF200A36AB6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
